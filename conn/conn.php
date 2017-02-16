@@ -6,7 +6,7 @@
  * Time: 11:48
  */
 $db_username = "root";
-$db_password = "root";
+$db_password = "qian1991";
 $db_host = "127.0.0.1";
 
 $dbc = @mysqli_connect($db_host, $db_username, $db_password, "sjfh") or die("connect failed");
